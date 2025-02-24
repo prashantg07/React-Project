@@ -6,6 +6,10 @@ A modern and responsive brand landing page built using React.js.
 ## Project 2 - CONTACT US PAGE  
 A dedicated contact page with a user-friendly interface, built using React.js.
 
+## Project 3 - DICE GAME 
+A dedicated dice game with a user-friendly interface, built using React.js.
+
+
 ---
 
 ## 📌 Features  
